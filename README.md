@@ -7,6 +7,7 @@ This is the official repository for our paper, "Global Meets Local: Bidirectiona
 
 # Results
 <img width="1556" height="987" alt="image" src="https://github.com/user-attachments/assets/8d8cb595-ea6a-4436-b3d6-746e2af7364a" />
+<img width="1519" height="751" alt="image" src="https://github.com/user-attachments/assets/8a94ed2c-1ce4-470a-960c-4ce49fd99434" />
 
 # Weights
 You can download the pre-trained weights and visualization results from the following 
