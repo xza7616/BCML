@@ -9,7 +9,7 @@ This is the official repository for our paper, "Global Meets Local: Bidirectiona
 <img width="1556" height="987" alt="image" src="https://github.com/user-attachments/assets/8d8cb595-ea6a-4436-b3d6-746e2af7364a" />
 
 # Weights
-You can download the pre-trained weights and visualization results from the following link:
-链接: https://pan.baidu.com/s/1rW7GLss7qJgabthziTU4eA?pwd=evfv 提取码: evfv
+You can download the pre-trained weights and visualization results from the following 
+link: https://pan.baidu.com/s/1rW7GLss7qJgabthziTU4eA?pwd=evfv 提取码: evfv
 
 
